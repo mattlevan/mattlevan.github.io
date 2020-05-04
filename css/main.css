@@ -10,7 +10,7 @@
 }
 html {
   color: #232333;
-  font-family: 'Fira Mono';
+  font-family: 'Fira', monospace;
   font-size: 15px;
   line-height: 1.6em;
 }
