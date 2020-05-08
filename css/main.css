@@ -3,9 +3,9 @@
 /* Markdown */
 :root{
 --maincolor: royalblue;
---bordercl: darkgoldenrod;
+--bordercl: gold;
 --callouctcolor: dodgerblue;
---hovercolor: lightslategrey;
+--hovercolor: gold;
 --darkMaincolor: #50fa7b;
 }
 html {
